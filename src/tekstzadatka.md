@@ -13,8 +13,8 @@ na ekranu trebalo da bude:
 	   000
  
 		0
-Dati kod se kompajlira, ali ne radi to šta treba. Napraviti javnu klasu IspisivacStrelice2 u paketu
-ispravka_koda, prekucati u nju kod koji je dat i, uz minimalne izmene ga ispraviti tako da funkcioniše
+Dati kod se kompajlira, ali ne radi to šta treba. Napraviti javnu klasu **IspisivacStrelice2** u paketu
+**ispravka_koda**, prekucati u nju kod koji je dat i, __uz minimalne izmene__ ga ispraviti tako da funkcioniše
 kako treba. Napraviti test klasu i, koristeći njenu main metodu, pozvati metodu ispisiStrelicu2() i proveriti
 njen rad.
 
